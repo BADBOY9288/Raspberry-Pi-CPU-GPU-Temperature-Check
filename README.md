@@ -9,6 +9,7 @@
 > * 在主页中，通过按照开发指南添加设备、添加传感器.
 > * 获取*API Key*以及传感器URL.
 - 添加的传感器URL，共有两个，分别是树莓派CPU、GPU传感器URL.
+- API Key 注册时候会邮件通知的.
 
 
 使用yeelink API开始上传数:
@@ -19,7 +20,7 @@
 
 我将收集来的脚本已经上传github中，所以用git下载即可.
 
-> git clone XX
+> git clone https://github.com/insaneboy/Raspberry-Pi-CPU-GPU-Temperature-Check.git
 
 修改 yeelink api Key 、 apiurl_gpu 、 apiurl_cpu 成自己对应的即可.
 
